@@ -38,3 +38,6 @@ Simulamos un entorno empresarial utilizando **Azure Active Directory (Entra ID)*
 * **Cloud:** Microsoft Azure (SQL Database, Functions).
 * **Visualización:** Power BI Desktop & Service.
 * **Entorno:** Jupyter Notebooks, VS Code, SSMS.
+
+## Automatización
+* Se evaluaron dos enfoques para automatizar la ingesta: descarga mediante Kaggle API y scraping del portal web. Aunque el scraping permite automatizar interacciones con la UI, presenta mayor complejidad técnica (autenticación, cambios de HTML, bloqueos) y mayor probabilidad de fallos. Por estabilidad, reproducibilidad y trazabilidad, se implementó Kaggle API como método principal de ingesta.
