@@ -13,7 +13,7 @@ Proyecto de Data Analytics para evaluar la evolución de franquicias NBA (2021-2
 Hemos seleccionado **Microsoft Azure** como nuestra infraestructura en la nube debido a su integración nativa con nuestro stack tecnológico (SQL Server + Power BI).
 > En el siguiente **Diagrama de Arquitectura**, se detalla el flujo ETL implementado en la nube para la ingesta, limpieza y visualización de estadísticas de la NBA.
 
-<img src="ArquitecturaDeDatosNBA.PNG" width="500">
+<img src="ArquitecturaDatosNBA.PNG" width="500">
 
 ### 🏗️ Componentes de la Solución
 * **Almacenamiento (PaaS):** Migración de la base de datos local a **Azure SQL Database** (Capa Basic/Serverless). Esto garantiza escalabilidad y alta disponibilidad de los datos históricos.
