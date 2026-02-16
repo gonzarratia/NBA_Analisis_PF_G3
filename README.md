@@ -18,6 +18,7 @@ Hemos seleccionado **Microsoft Azure** como nuestra infraestructura en la nube d
 ## 🏀 Modelo de Datos – NBA
 Para estructurar correctamente la información histórica de la NBA, se diseñó un modelo Entidad-Relación (ER) que organiza jugadores, equipos, estadísticas y temporadas, permitiendo realizar consultas analíticas eficientes y escalables.
 Este modelo garantiza consistencia en los datos y facilita el análisis exploratorio y la construcción de métricas avanzadas.
+
 📌 Visualizar diagrama completo:
 [Ver Diagrama ER](docs/Diagram_ER_DB_NBA.PNG)
 
