@@ -39,6 +39,7 @@ Simulamos un entorno empresarial utilizando **Azure Active Directory (Entra ID)*
 * `/src`: Pipelines de ETL en Python (Extracción, Limpieza y Carga).
 * `/dashboard`: Archivos Power BI (.pbix) y plantillas.
 * `/docs`: Documentación de arquitectura y diccionario de datos.
+* `/eda`: Archivos Análisis Exploratorio de Datos en Pythom
 
 ## 🛠 Tecnologías
 * **Lenguajes:** Python (Pandas, SQLAlchemy, PyODBC), SQL.
