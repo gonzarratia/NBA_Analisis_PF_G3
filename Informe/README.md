@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Introducción y Propósito
+##  Introducción y Propósito
 
 El presente proyecto surge de la necesidad de comprender cómo ha evolucionado el baloncesto profesional de la NBA en las últimas temporadas, centrándose en la transformación táctica de las franquicias y el peso real de los jugadores de élite en el éxito de sus equipos.
 
@@ -12,31 +12,31 @@ El propósito es transformar datos crudos provenientes de competiciones oficiale
 
 ---
 
-## 🎯 Objetivos del Proyecto
+##  Objetivos del Proyecto
 
-- ⭐ Analizar el impacto de los jugadores estrella.
-- 🎯 Evaluar la evolución táctica del juego (revolución del triple).
-- 🏥 Identificar riesgos de salud relacionados con edad y peso.
-- 📈 Detectar patrones estructurales en el rendimiento de franquicias.
+-  Analizar el impacto de los jugadores estrella.
+-  Evaluar la evolución táctica del juego (revolución del triple).
+-  Identificar riesgos de salud relacionados con edad y peso.
+-  Detectar patrones estructurales en el rendimiento de franquicias.
 
 ---
 
-## 🏗️ Arquitectura de Datos
+##  Arquitectura de Datos
 
-### 🔄 Proceso ETL
+###  Proceso ETL
 
 1. Extracción de datos desde archivos CSV (Kaggle).
 2. Limpieza y normalización de variables.
 3. Modelado relacional en SQL Server.
 4. Validación de integridad y consistencia.
 
-### ☁️ Escalabilidad
+###  Escalabilidad
 
 El modelo fue diseñado considerando una futura migración a entorno cloud (Azure), permitiendo procesamiento distribuido y consumo eficiente en herramientas de visualización.
 
 ---
 
-## 📊 Análisis Exploratorio de Datos (EDA)
+##  Análisis Exploratorio de Datos (EDA)
 
 > Esta sección se encuentra en desarrollo ....
 
