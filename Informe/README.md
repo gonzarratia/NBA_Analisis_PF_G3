@@ -160,12 +160,7 @@ Los equipos en reconstrucción dependen estratégicamente de estos perfiles para
 
 ---
 
-### Top Equipos Ofensivos y Defensivos
+### Conclusión
+El análisis integral de las métricas ofensivas, defensivas y biométricas evidencia que el éxito en la NBA moderna no responde a un único factor aislado, sino a un equilibrio estructural entre rendimiento presente y sostenibilidad futura. El mapa estratégico confirma que los verdaderos contendientes combinan eficiencia ofensiva con solidez defensiva, mientras que la evolución del triple refleja una transformación táctica que redefine la competitividad. Sin embargo, el rendimiento colectivo también depende de variables menos visibles: la durabilidad de los jugadores, la gestión de la carga física y el impacto del envejecimiento, factores que determinan la estabilidad de una franquicia a lo largo del tiempo.
 
-<p align="center">
-  <img src="Imagenes/top_equipos_defensivos_ofensivos.png" width="750">
-</p>
-
-**Descripción:**  
-Identifica a los equipos que lideran en eficiencia ofensiva y defensiva. 
-Revela qué franquicias combinan rendimiento en ambos extremos del juego, confirmando que la excelencia integral es el predictor más consistente del éxito sostenido.
+Asimismo, la concentración del scoring (capacidad de hacer puntos) en los titulares expone riesgos ante lesiones, lo que refuerza la importancia de una banca profunda para sostener el rendimiento. La ventaja de localía, aunque estadísticamente favorable, resulta complementaria frente a la estructura del equipo. En paralelo, la irrupción de jóvenes anotadores de élite señala una transición generacional que amplía ventanas competitivas cuando se combina con equilibrio táctico y gestión inteligente de activos. En conjunto, la evidencia sugiere que las franquicias más sostenibles son aquellas que integran datos de rendimiento, salud y proyección en una estrategia coherente de construcción deportiva.
