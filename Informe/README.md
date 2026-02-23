@@ -128,8 +128,7 @@ Una alta dependencia de los titulares incrementa vulnerabilidad ante lesiones. L
 </p>
 
 **Descripción:**  
-Compara el porcentaje de victorias en condición de local versus visitante.
-La ventaja de localía mantiene un impacto estadístico medible, generalmente superior al 50%.  
+Compara el porcentaje de victorias en condición de local versus visitante. La ventaja de localía continúa siendo estadísticamente favorable, aunque su magnitud sugiere que el diferencial competitivo depende principalmente del rendimiento estructural del equipo más que del contexto geográfico. 
 Esto refuerza la importancia estratégica de asegurar posiciones altas en temporada regular.
 
 ---
