@@ -59,8 +59,7 @@ La disponibilidad física cae de manera significativa después de los 30 años. 
 </p>
 
 **Descripción:**  
-La regresión analiza la relación entre peso corporal y ausencias acumuladas. 
-Permite evaluar si jugadores más pesados (especialmente centros) presentan mayor propensión a lesiones crónicas. Esta métrica es clave para scouting y proyección de longevidad deportiva.
+El análisis de regresión muestra una tendencia positiva leve entre peso corporal y ausencias acumuladas. No obstante, la alta dispersión indica que el peso no es un predictor robusto de disponibilidad física. Esto sugiere que la gestión de carga y la edad podrían tener mayor impacto que la biometría aislada.
 
 ---
 
