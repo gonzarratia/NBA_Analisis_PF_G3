@@ -43,7 +43,7 @@ El modelo fue diseñado considerando una futura migración a entorno cloud (Azur
 ### Curva de Envejecimiento y Riesgo
 
 <p align="center">
-  <img src="imagenes/curva_envejecimiento.png" width="750">
+  <img src="Imagenes/curva_envejecimiento.png" width="750">
 </p>
 
 **Descripción:**  
@@ -55,7 +55,7 @@ La disponibilidad física cae de manera significativa después de los 30 años. 
 ### Peso vs. Resistencia
 
 <p align="center">
-  <img src="imagenes/peso_vs_resistencia.png" width="750">
+  <img src="Imagenes/peso_vs_resistencia.png" width="750">
 </p>
 
 **Descripción:**  
@@ -71,7 +71,7 @@ Permite evaluar si jugadores más pesados (especialmente centros) presentan mayo
 ### Mapa Estratégico (Ofensivo vs. Defensivo)
 
 <p align="center">
-  <img src="imagenes/ofensivo_vs_defensivo.png" width="750">
+  <img src="Imagenes/ofensivo_vs_defensivo.png" width="750">
 </p>
 
 **Descripción:**  
@@ -84,7 +84,7 @@ Los equipos con alto poder ofensivo pero bajo rendimiento defensivo tienden a se
 ### Ajuste del Triple
 
 <p align="center">
-  <img src="imagenes/triples_equipo.png" width="750">
+  <img src="Imagenes/triples_equipo.png" width="750">
 </p>
 
 **Descripción:**  
@@ -101,7 +101,7 @@ Las franquicias líderes muestran sistemas ofensivos más modernos y eficientes,
 ### Factor Clutch
 
 <p align="center">
-  <img src="imagenes/factor_clutch.png" width="750">
+  <img src="Imagenes/factor_clutch.png" width="750">
 </p>
 
 **Descripción:**  
@@ -114,7 +114,7 @@ Un alto win rate en momentos cerrados suele correlacionarse con la presencia de 
 ### Distribución Titulares vs. Suplentes
 
 <p align="center">
-  <img src="imagenes/titulares_suplentes.png" width="750">
+  <img src="Imagenes/titulares_suplentes.png" width="750">
 </p>
 
 **Descripción:**  
@@ -126,7 +126,7 @@ Las franquicias más competitivas presentan una banca profunda que sostiene el r
 ### Peso de la Localía
 
 <p align="center">
-  <img src="imagenes/peso_localia.png" width="750">
+  <img src="Imagenes/peso_localia.png" width="750">
 </p>
 
 **Descripción:**  
@@ -135,14 +135,14 @@ La ventaja de localía mantiene un impacto estadístico medible, generalmente su
 Esto refuerza la importancia estratégica de asegurar posiciones altas en temporada regular.
 
 ---
-# 4️⃣ Gestión de Activos (Jugadores)
+# Gestión de Activos (Jugadores)
 
 ---
 
 ### Top 10 
 
 <p align="center">
-  <img src="imagenes/jugadores_max_minutos.png" width="750">
+  <img src="Imagenes/jugadores_max_minutos.png" width="750">
 </p>
 
 **Descripción:**  
@@ -153,7 +153,7 @@ Son los activos más rentables de la liga: combinan rendimiento y durabilidad, p
 ### Jóvenes Promesas
 
 <p align="center">
-  <img src="imagenes/jovenes_promesas.png" width="750">
+  <img src="Imagenes/jovenes_promesas.png" width="750">
 </p>
 
 **Descripción:**  
@@ -166,7 +166,7 @@ Los equipos en reconstrucción dependen estratégicamente de estos perfiles para
 ### Top Equipos Ofensivos y Defensivos
 
 <p align="center">
-  <img src="imagenes/top_equipos_defensivos_ofensivos.png" width="750">
+  <img src="Imagenes/top_equipos_defensivos_ofensivos.png" width="750">
 </p>
 
 **Descripción:**  
