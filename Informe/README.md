@@ -40,10 +40,6 @@ El modelo fue diseñado considerando una futura migración a entorno cloud (Azur
 
 ---
 
-# Dinámica de Rendimiento y Biometría
-
----
-
 ### Curva de Envejecimiento y Riesgo
 
 <p align="center">
