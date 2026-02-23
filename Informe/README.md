@@ -143,8 +143,8 @@ Esto refuerza la importancia estratégica de asegurar posiciones altas en tempor
 </p>
 
 **Descripción:**  
-Identifica jugadores con más de 75 partidos disputados y mayor volumen total de minutos. 
-Son los activos más rentables de la liga: combinan rendimiento y durabilidad, pilares fundamentales para continuidad competitiva.
+Identifica jugadores con más de 75 partidos disputados y mayor volumen total de minutos. El volumen elevado de minutos combinado con alta disponibilidad identifica a los jugadores estructurales de cada franquicia. No obstante, una carga sostenida en perfiles veteranos podría representar riesgo de desgaste futuro, especialmente en equipos con baja profundidad de banca.
+Son activos rentables de la liga: combinan rendimiento y durabilidad, pilares fundamentales para continuidad competitiva.
 
 ---
 ### Jóvenes Promesas
