@@ -46,10 +46,10 @@ El modelo fue diseñado considerando una futura migración a entorno cloud (Azur
   <img src="imagenes/curva_envejecimiento.png" width="750">
 </p>
 
-**Descripción:**
-
+**Descripción:**  
 El gráfico evidencia el incremento progresivo de ausencias por partido a partir de los 32 años, marcando una clara zona de riesgo en jugadores veteranos.
 La disponibilidad física cae de manera significativa después de los 30 años. Las franquicias deben gestionar estratégicamente la carga de minutos de jugadores veteranos para proteger su inversión y evitar deterioro acelerado.
+
 ---
 
 ### Peso vs. Resistencia
