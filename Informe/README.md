@@ -118,8 +118,7 @@ Un alto win rate en momentos cerrados suele correlacionarse con la presencia de 
 
 **Descripción:**  
 Representa el porcentaje de puntos aportados por la banca respecto al total del equipo.  
-Una alta dependencia de los titulares incrementa vulnerabilidad ante lesiones.  
-Las franquicias más competitivas presentan una banca profunda que sostiene el rendimiento colectivo.
+Una alta dependencia de los titulares incrementa vulnerabilidad ante lesiones. La producción ofensiva está concentrada en los titulares, lo que puede representar un riesgo estructural si no existe una rotación sólida que sostenga el rendimiento.
 
 ---
 ### Peso de la Localía
