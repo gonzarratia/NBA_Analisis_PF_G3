@@ -155,7 +155,7 @@ Son activos rentables de la liga: combinan rendimiento y durabilidad, pilares fu
 
 **Descripción:**  
 Ranking de los 10 máximos anotadores menores de 25 años.  
-Representan el capital futuro de las franquicias.  
+Estos perfiles no solo representan producción ofensiva inmediata, sino también activos estratégicos que extienden la ventana competitiva de las franquicias y potencian su exito futuro.
 Los equipos en reconstrucción dependen estratégicamente de estos perfiles para sostener su crecimiento a largo plazo.
 
 ---
