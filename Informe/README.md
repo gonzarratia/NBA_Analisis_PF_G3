@@ -16,7 +16,7 @@ El propósito es transformar datos crudos provenientes de competiciones oficiale
 
 -  Analizar el impacto de los jugadores estrella.
 -  Evaluar la evolución táctica del juego (revolución del triple).
--  Identificar riesgos de salud relacionados con edad y peso.
+-  Identificar efectos relacionados con edad y peso.
 -  Detectar patrones estructurales en el rendimiento de franquicias.
 
 ---
