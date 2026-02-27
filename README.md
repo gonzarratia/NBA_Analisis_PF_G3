@@ -50,3 +50,19 @@ Simulamos un entorno empresarial utilizando **Azure Active Directory (Entra ID)*
 
 ## Automatización
 * Se evaluaron dos enfoques para automatizar la ingesta: descarga mediante Kaggle API y scraping del portal web. Aunque el scraping permite automatizar interacciones con la UI, presenta mayor complejidad técnica (autenticación, cambios de HTML, bloqueos) y mayor probabilidad de fallos. Por estabilidad, reproducibilidad y trazabilidad, se implementó Kaggle API como método principal de ingesta.
+
+---
+
+## 🚀 Demo
+
+Podés visualizar la presentación interactiva del proyecto en el siguiente enlace:
+
+🔗 [Ver Demo Online](https://view.genially.com/698a8e223d5eb58322dad872/interactive-content-analisis-de-la-evolucion-de-franquicias-y-el-impacto-critico-de-jugadores-en-la-nba)
+
+---
+
+## 📄 Informe Técnico
+
+El informe completo del proyecto, incluyendo metodología y conclusiones, se encuentra disponible aquí:
+
+📑 [Ver Informe Completo](Informe/README.md)
