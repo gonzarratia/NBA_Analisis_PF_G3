@@ -1,7 +1,7 @@
 # 🏀 Dinastías y Dependencia: Análisis NBA
 
 ## 📋 Descripción
-Proyecto de Data Analytics para evaluar la evolución de franquicias NBA (2021-2023) y el impacto de la ausencia de jugadores clave ("Delta de Victoria"). El objetivo es determinar cuánto depende un equipo de sus estrellas y detectar el fin de ciclos exitosos (dinastías).
+Proyecto de Data Analytics para evaluar la evolución de franquicias NBA (2021-2022) y el impacto de la ausencia de jugadores clave ("Delta de Victoria"). El objetivo es determinar cuánto depende un equipo de sus estrellas y detectar el fin de ciclos exitosos (dinastías).
 
 ## 👥 Equipo
 * **Gonzalo Arratia** - Data Analyst
